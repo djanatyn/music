@@ -1,1 +1,15 @@
-../.git/annex/objects/vm/zf/SHA256E-s399--3e521c08a0f8b6adaa3d5856ad07b83f46036de140fcd505c10c2b241747f0ad.nix/SHA256E-s399--3e521c08a0f8b6adaa3d5856ad07b83f46036de140fcd505c10c2b241747f0ad.nix
+{ runCommand, youtube-dl }:
+{ url, name ? builtins.baseNameOf url, sha256 }:
+runCommand name {
+  nativeBuildInputs = [ youtube-dl ];
+
+  outputHashAlgo = "sha256";
+  outputHash = sha256;
+  outputHashMode = "recursive";
+
+  preferLocalBuild = true;
+} ''
+  mkdir -p /var/lib/soundcloud/cache
+  mkdir -p $out && cd $out
+  youtube-dl --no-check-certificate --cache-dir /var/lib/soundcloud/cache ${url}
+''
