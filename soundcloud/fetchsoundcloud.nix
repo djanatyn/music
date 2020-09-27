@@ -9,7 +9,12 @@ runCommand name {
 
   preferLocalBuild = true;
 } ''
-  mkdir -p /var/lib/soundcloud/cache
   mkdir -p $out && cd $out
-  youtube-dl --no-check-certificate --cache-dir /var/lib/soundcloud/cache ${url}
+  youtube-dl --no-check-certificate \
+    --add-metadata \
+    --write-info-json \
+    --no-cache-dir \
+    --limit-rate 1M \
+    --sleep-interval 1 \
+    ${url}
 ''
