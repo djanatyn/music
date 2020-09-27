@@ -24,4 +24,10 @@
     sha256 = "1vng537f1g2f5mxq6xjaxi543lpqvs9aiqashz02s0m556yl3nb2";
     name = "malibu";
   };
+
+  five-loaves = fetchsoundcloud {
+    url = "https://soundcloud.com/shamanabeats/sets/5l2f";
+    sha256 = "0x9qpnbfg1a02w946r6bn9134633cjvr31w0chzj8pikhm1gy949";
+    name = "five-loaves-of-bread-and-two-fish";
+  };
 }
