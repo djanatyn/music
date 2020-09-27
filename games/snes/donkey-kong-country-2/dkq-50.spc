@@ -1,0 +1,1 @@
+../../../.git/annex/objects/gm/F1/SHA256E-s66088--bb1a9f84129fed85f2abc8d8f27e7173c02ee1b1d734499c6a694fcd502d9865.spc/SHA256E-s66088--bb1a9f84129fed85f2abc8d8f27e7173c02ee1b1d734499c6a694fcd502d9865.spc

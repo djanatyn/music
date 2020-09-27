@@ -1,0 +1,1 @@
+../../../.git/annex/objects/zM/Z0/SHA256E-s66116--5a3aeb1ed1327d65064e3fa22cf8f1d9db17f260f3366aaa0a40f346e73a05f1.spc/SHA256E-s66116--5a3aeb1ed1327d65064e3fa22cf8f1d9db17f260f3366aaa0a40f346e73a05f1.spc

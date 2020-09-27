@@ -1,0 +1,1 @@
+../../../.git/annex/objects/ZP/G2/SHA256E-s66132--b3e2f8c69419ee3898018706608abcfa7e07bbbf863c007924d1eefedc3133f2.spc/SHA256E-s66132--b3e2f8c69419ee3898018706608abcfa7e07bbbf863c007924d1eefedc3133f2.spc

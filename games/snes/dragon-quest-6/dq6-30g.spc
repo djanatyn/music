@@ -1,0 +1,1 @@
+../../../.git/annex/objects/qf/vp/SHA256E-s66092--afe1dcb707890172ed61098f22bc685632ef764fd19b4cfebc075eeb7d998afc.spc/SHA256E-s66092--afe1dcb707890172ed61098f22bc685632ef764fd19b4cfebc075eeb7d998afc.spc

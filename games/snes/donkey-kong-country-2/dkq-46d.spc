@@ -1,0 +1,1 @@
+../../../.git/annex/objects/XX/FX/SHA256E-s66156--93e6012ece8d0c34b5ac3237b4c5ebd38ed64e3cef27451bee87e49e6b5e7bfa.spc/SHA256E-s66156--93e6012ece8d0c34b5ac3237b4c5ebd38ed64e3cef27451bee87e49e6b5e7bfa.spc

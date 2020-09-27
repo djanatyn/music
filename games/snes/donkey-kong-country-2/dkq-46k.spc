@@ -1,0 +1,1 @@
+../../../.git/annex/objects/fZ/8M/SHA256E-s66112--cfa8ffa5c7c208f4a047c424238ba4adaee47338f7caaa5aaea696f7e8006d9d.spc/SHA256E-s66112--cfa8ffa5c7c208f4a047c424238ba4adaee47338f7caaa5aaea696f7e8006d9d.spc

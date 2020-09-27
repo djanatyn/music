@@ -1,0 +1,1 @@
+../../../.git/annex/objects/KP/5p/SHA256E-s66092--8a5ed5410011a0ba1453c38d7bba90fbabdd23c7fba4ae3e4a1be82b1f21c2f1.spc/SHA256E-s66092--8a5ed5410011a0ba1453c38d7bba90fbabdd23c7fba4ae3e4a1be82b1f21c2f1.spc

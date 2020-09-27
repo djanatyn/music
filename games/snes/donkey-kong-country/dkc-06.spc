@@ -1,0 +1,1 @@
+../../../.git/annex/objects/jM/8M/SHA256E-s66096--2b4771fbeb1436b7d95f97dbe519a6a0aaae2744caa8920f16a811e20dbc923a.spc/SHA256E-s66096--2b4771fbeb1436b7d95f97dbe519a6a0aaae2744caa8920f16a811e20dbc923a.spc

@@ -1,0 +1,1 @@
+../../../.git/annex/objects/MG/2G/SHA256E-s66096--e69eb3736325a8746a640a12b3edced0aa02a3a36d2d93cc54b6929efa7fa40c.spc/SHA256E-s66096--e69eb3736325a8746a640a12b3edced0aa02a3a36d2d93cc54b6929efa7fa40c.spc

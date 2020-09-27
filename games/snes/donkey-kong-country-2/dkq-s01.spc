@@ -1,0 +1,1 @@
+../../../.git/annex/objects/6Z/Jj/SHA256E-s66192--70c350b58cbb3aa8bc4078a249c72bb80a75e8ceb8ca82b4c214711b88cbb82d.spc/SHA256E-s66192--70c350b58cbb3aa8bc4078a249c72bb80a75e8ceb8ca82b4c214711b88cbb82d.spc

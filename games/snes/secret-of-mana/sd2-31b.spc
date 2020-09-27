@@ -1,0 +1,1 @@
+../../../.git/annex/objects/mm/76/SHA256E-s66156--7205ab226af50c7de5edd16cd414201a4afabd40aa0208dfb7691693be48bccb.spc/SHA256E-s66156--7205ab226af50c7de5edd16cd414201a4afabd40aa0208dfb7691693be48bccb.spc

@@ -1,0 +1,1 @@
+../../../.git/annex/objects/17/3p/SHA256E-s66156--100cf5d26ba1dbe8dd4cb0a1fe5aee34d4c706ad2d1e764660acfd0e7cd009b2.spc/SHA256E-s66156--100cf5d26ba1dbe8dd4cb0a1fe5aee34d4c706ad2d1e764660acfd0e7cd009b2.spc

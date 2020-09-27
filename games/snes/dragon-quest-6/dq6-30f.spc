@@ -1,0 +1,1 @@
+../../../.git/annex/objects/kZ/GF/SHA256E-s66092--bc5bc7c179dc53924b1d6135919c22bdc318c96b9c5b4d1a1fba0c9c5f037c9b.spc/SHA256E-s66092--bc5bc7c179dc53924b1d6135919c22bdc318c96b9c5b4d1a1fba0c9c5f037c9b.spc

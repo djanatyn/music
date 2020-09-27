@@ -1,0 +1,1 @@
+../../../.git/annex/objects/Mx/M0/SHA256E-s66188--fb9dadd91b648eb080cc6874ccb920973788a7ff42111751aecf70ab1d5a22cc.spc/SHA256E-s66188--fb9dadd91b648eb080cc6874ccb920973788a7ff42111751aecf70ab1d5a22cc.spc

@@ -1,0 +1,1 @@
+../../../.git/annex/objects/G4/vw/SHA256E-s66156--fae1fba157edc3be2a94741427a60bdc7d236caba8e571e78db7af50bf6ba573.spc/SHA256E-s66156--fae1fba157edc3be2a94741427a60bdc7d236caba8e571e78db7af50bf6ba573.spc

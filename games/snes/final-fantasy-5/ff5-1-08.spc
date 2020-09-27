@@ -1,0 +1,1 @@
+../../../.git/annex/objects/m3/mv/SHA256E-s66156--cca70d2d3b310fa7773050dc003b1528d526b0fe35bea65e4b797941ceb9da76.spc/SHA256E-s66156--cca70d2d3b310fa7773050dc003b1528d526b0fe35bea65e4b797941ceb9da76.spc

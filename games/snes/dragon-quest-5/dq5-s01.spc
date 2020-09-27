@@ -1,0 +1,1 @@
+../../../.git/annex/objects/Mw/KG/SHA256E-s66080--cb39956dd6de45d33005809e7ecf94fd08d1ad6ebb9fef5cd0ded21e2323813a.spc/SHA256E-s66080--cb39956dd6de45d33005809e7ecf94fd08d1ad6ebb9fef5cd0ded21e2323813a.spc

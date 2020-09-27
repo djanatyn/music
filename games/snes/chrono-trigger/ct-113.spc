@@ -1,0 +1,1 @@
+../../../.git/annex/objects/G8/Mk/SHA256E-s66152--d1248226163ef6fd30c528219588d3c1aa3a18a7cddec1b970d0c839ecab45b3.spc/SHA256E-s66152--d1248226163ef6fd30c528219588d3c1aa3a18a7cddec1b970d0c839ecab45b3.spc

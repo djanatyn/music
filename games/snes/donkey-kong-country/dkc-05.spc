@@ -1,0 +1,1 @@
+../../../.git/annex/objects/XM/fG/SHA256E-s66096--cbc1a058c3f3cd5eccc21e9f737aec468a4e0f475e23325eebc1e3aa79d08198.spc/SHA256E-s66096--cbc1a058c3f3cd5eccc21e9f737aec468a4e0f475e23325eebc1e3aa79d08198.spc

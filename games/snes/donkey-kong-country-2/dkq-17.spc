@@ -1,0 +1,1 @@
+../../../.git/annex/objects/55/kW/SHA256E-s66096--0f0d7d16834cd4a081bb8dd5c1b26ebdb181801a3266ceb193108af9a5ada379.spc/SHA256E-s66096--0f0d7d16834cd4a081bb8dd5c1b26ebdb181801a3266ceb193108af9a5ada379.spc

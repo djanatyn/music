@@ -1,0 +1,1 @@
+../../../.git/annex/objects/wk/kx/SHA256E-s66188--aa2d742a8cba7380ff4ddd123949c7a9fdb1cfc35a4472b2c800bc4d4919bb74.spc/SHA256E-s66188--aa2d742a8cba7380ff4ddd123949c7a9fdb1cfc35a4472b2c800bc4d4919bb74.spc
